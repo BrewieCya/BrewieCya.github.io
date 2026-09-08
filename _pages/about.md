@@ -25,12 +25,12 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 # Education
 
-- *2024.09 - 2027.06 (expected)*, **Harbin Institute of Technology**, Harbin, China <a href="https://www.hit.edu.cn/"><img src="/images/HIT_logo.png" alt="HIT" style="height: 26px; vertical-align: middle;"></a>
+- *2024.09 - 2027.06 (expected)*, **Harbin Institute of Technology**, Harbin, China <a href="https://www.hit.edu.cn/"><img src="/images/HIT_logo.png?v=2" alt="HIT" style="height: 26px; vertical-align: middle;"></a>
   - M.Eng. in Computer Technology
   - Supervisor: Prof. Kui Jiang (江奎), AIIA Lab
   - Xiaomi Scholarship
 
-- *2019.09 - 2023.06*, **South China University of Technology**, Guangzhou, China <a href="https://www.scut.edu.cn/"><img src="/images/SCUT_logo.png" alt="SCUT" style="height: 26px; vertical-align: middle;"></a>
+- *2019.09 - 2023.06*, **South China University of Technology**, Guangzhou, China <a href="https://www.scut.edu.cn/"><img src="/images/SCUT_logo.png?v=2" alt="SCUT" style="height: 26px; vertical-align: middle;"></a>
   - B.Sc. in Mathematics and Applied Mathematics
   - Australian Alumni Scholarship
 
