@@ -44,8 +44,8 @@ My research interests lie in **multimodal generation and understanding**, **worl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM (major revision)</div><img src='images/SGVD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **SGVD: Selective Generative Video Deraining with Uncertainty-Aware Diffusion**
-First Author. *Major Revision, IEEE TMM, 2026*.
+- **SGVD: Selective Generative Video Deraining with Uncertainty-Aware Diffusion**  
+First Author. *Major Revision, IEEE TMM, 2026*.  
 Develops an uncertainty-aware diffusion framework with anchor-frame constraints for temporally consistent video deraining; improves PSNR by 4.87 dB and reduces temporal error by 26.5%.
 
 </div>
@@ -54,8 +54,8 @@ Develops an uncertainty-aware diffusion framework with anchor-frame constraints 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/STDVD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **STDVD: Motion-Guided Differential Mamba for High-Fidelity Video Deraining**
-First Author. *Under Review, AAAI 2027*.
+- **STDVD: Motion-Guided Differential Mamba for High-Fidelity Video Deraining**  
+First Author. *Under Review, AAAI 2027*.  
 Identifies the saliency-artifact entanglement in Mamba's selective scanning and resolves it via motion-guided differential gating that separates transient rain from coherent background trajectories with linear complexity.
 
 </div>
@@ -64,8 +64,8 @@ Identifies the saliency-artifact entanglement in Mamba's selective scanning and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection**
-Second Author. *Under Review, AAAI 2027*.
+- **KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection**  
+Second Author. *Under Review, AAAI 2027*.  
 Introduces motion-prior and uncertainty-residual query updates for temporal multi-view 3D detection; improves StreamPETR by 2.43 NDS and 2.76 mAP on nuScenes with 3.4% inference overhead.
 
 </div>
@@ -74,8 +74,8 @@ Introduces motion-prior and uncertainty-residual query updates for temporal mult
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT (major revision)</div><img src='images/S3VD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining**
-Student First Author. *Major Revision, CAAI Transactions on Intelligence Technology (TRIT), SCI Q1, 2026*.
+- **S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining**  
+Student First Author. *Major Revision, CAAI Transactions on Intelligence Technology (TRIT), SCI Q1, 2026*.  
 Injects multi-scale DINOv2 semantic priors into a directional-gated spatio-temporal Mamba to distinguish rain artifacts from scene structures, improving robustness under complex degradations.
 
 </div>
@@ -84,7 +84,7 @@ Injects multi-scale DINOv2 semantic priors into a directional-gated spatio-tempo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **State-Isolated Vision Mamba via Update-Tendency Routing for Underwater Image Enhancement**
+- **State-Isolated Vision Mamba via Update-Tendency Routing for Underwater Image Enhancement**  
 Fourth Author. *Under Review, AAAI 2027*.
 
 </div>
