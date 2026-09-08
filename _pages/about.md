@@ -107,9 +107,10 @@ Fourth Author. *Under Review, AAAI 2027*.
 
 - *2026.04 - 2026.07*, **Applied Research Intern**, Tencent, TEG AI Platform Department -- Honor of Kings Commander Project, Shenzhen, China
 
-<span class='anchor' id='-proj'></span>
+<span class='anchor' id='-int'></span>
 
-# Projects
+# Interests
 
-- *2024.10 - 2025.10*, **Multimodal Image Enhancement Agent via Information Fusion**, National Innovation Project, Core Contributor
-  - Built a VLM-LLM-driven image-enhancement agent that uses semantic perception and model routing to select restoration strategies across degradation types; surpassed the prior state of the art by 1.5 dB PSNR.
+- **Sports**: Football (Soccer), Table Tennis, Badminton, Billiards
+- **Music**: Piano
+
