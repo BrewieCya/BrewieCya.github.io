@@ -102,9 +102,9 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 # Intern Experience
 
-- *2026.07 - Present*, **Research Intern**, [Meituan](https://www.meituan.com/), Dianping Technology Department, Shanghai, China <a href="https://www.meituan.com/"><img src="/images/Meituan_logo.png" alt="Meituan" style="height: 24px; vertical-align: middle;"></a>
+- *2026.07 - Present*, **Research Intern**, [Meituan](https://www.meituan.com/) <a href="https://www.meituan.com/"><img src="/images/Meituan_logo.png" alt="Meituan" style="height: 20px; vertical-align: middle;"></a>, Dianping Technology Department, Shanghai, China
 
-- *2026.04 - 2026.07*, **Applied Research Intern**, Tencent, TEG AI Platform Department -- Honor of Kings Commander Project, Shenzhen, China <a href="https://www.tencent.com/"><img src="/images/Tencent_logo.png" alt="Tencent" style="height: 24px; vertical-align: middle;"></a>
+- *2026.04 - 2026.07*, **Applied Research Intern**, Tencent <a href="https://www.tencent.com/"><img src="/images/Tencent_logo.png" alt="Tencent" style="height: 18px; vertical-align: middle;"></a>, TEG AI Platform Department -- Honor of Kings Commander Project, Shenzhen, China
 
 <span class='anchor' id='-int'></span>
 
