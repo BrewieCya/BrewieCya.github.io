@@ -68,7 +68,7 @@ Student First Author. *Major Revision, CAAI Transactions on Intelligence Technol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/KOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection**  
@@ -76,7 +76,7 @@ Second Author. *Under Review, AAAI 2027*.
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/Underwater.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **State-Isolated Vision Mamba via Update-Tendency Routing for Underwater Image Enhancement**  
