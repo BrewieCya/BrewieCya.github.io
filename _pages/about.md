@@ -50,7 +50,7 @@ Proposes uncertainty-aware iterative spatial reasoning combining VLM semantic ju
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM (major revision)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM (major revision)</div><img src='images/SGVD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **SGVD: Selective Generative Video Deraining with Uncertainty-Aware Diffusion** (first author). *Major Revision, IEEE TMM, 2026*.
@@ -59,7 +59,7 @@ Develops an uncertainty-aware diffusion framework with anchor-frame constraints 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (submitted)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (submitted)</div><img src='images/STDVD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **STDVD: Motion-Guided Differential Mamba for High-Fidelity Video Deraining** (first author). *Under Review, AAAI 2027*.
@@ -77,7 +77,7 @@ Introduces motion-prior and uncertainty-residual query updates for temporal mult
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT (major revision)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT (major revision)</div><img src='images/S3VD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining** (student first author). *Major Revision, CAAI Transactions on Intelligence Technology (TRIT), SCI Q1, 2026*.

@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "brewiecya"
+title                    : "Yi'ang Chen"
 description              : "Multimodal Foundation Models, World Models, Spatial Intelligence"
 repository               : "BrewieCya/BrewieCya.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,8 +21,8 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "brewiecya"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Yi'ang Chen"
+  avatar           : "images/profile.jpg"
   bio              : "Harbin Institute of Technology"
   location         : "Harbin, China"
   employer         : #"Hefei General Machinery Research Institute"
