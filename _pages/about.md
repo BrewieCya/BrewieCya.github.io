@@ -88,7 +88,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 <span class='anchor' id='awd'></span>
 
-# Honors & Awards
+# Honors <span style="font-family: Arial, Helvetica, sans-serif;">&amp;</span> Awards
 
 - *2026* **Runner-up**, CVPR NTIRE 2026 Challenge on Single Image Reflection Removal in the Wild
 - *2026* **Champion**, CVPR NTIRE 2026 Challenge on Day and Night Raindrop Removal for Dual-Focused Images
@@ -102,7 +102,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 # Intern Experience
 
-- <span style="float: right;">*2026.07 - Present*</span> <img src="/images/Meituan_logo.png?v=2" alt="Meituan" style="height: 26px; width: 170px; object-fit: contain; object-position: left center; vertical-align: middle; margin-right: 8px;"> **Meituan**, Shanghai, China
+- <span style="float: right;">*2026.07 - Present*</span> <img src="/images/Meituan_logo.png?v=2" alt="Meituan" style="height: 34px; width: 170px; object-fit: contain; object-position: left center; vertical-align: middle; margin-right: 8px;"> **Meituan**, Shanghai, China
   - Research Intern, Dianping Technology Department
 
 - <span style="float: right;">*2026.04 - 2026.07*</span> <a href="https://www.tencent.com/"><img src="/images/Tencent_logo.png?v=2" alt="Tencent" style="height: 21px; width: 170px; object-fit: contain; object-position: left center; vertical-align: middle; margin-right: 8px;"></a> **Tencent**, Shenzhen, China
