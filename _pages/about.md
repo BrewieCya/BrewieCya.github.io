@@ -41,10 +41,10 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 (submitted)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Look, Verify, and Connect: Iterative Spatial Reasoning from Sparse Views** (first author). *Submitted to ICLR 2027*.
+- **Look, Verify, and Connect: Iterative Spatial Reasoning from Sparse Views** (first author). *Under Review, ICLR 2027*.
 Proposes uncertainty-aware iterative spatial reasoning combining VLM semantic judgment, multi-view geometric verification, and global graph optimization; reduces geometric-verification calls by 40% and achieves 85.2% spatial-relation Edge F1.
 
 </div>
@@ -59,7 +59,7 @@ Develops an uncertainty-aware diffusion framework with anchor-frame constraints 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (submitted)</div><img src='images/STDVD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/STDVD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **STDVD: Motion-Guided Differential Mamba for High-Fidelity Video Deraining** (first author). *Under Review, AAAI 2027*.
@@ -68,7 +68,7 @@ Identifies the saliency-artifact entanglement in Mamba's selective scanning and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (submitted)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection** (second author). *Under Review, AAAI 2027*.
@@ -86,7 +86,7 @@ Injects multi-scale DINOv2 semantic priors into a directional-gated spatio-tempo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (submitted)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **State-Isolated Vision Mamba via Update-Tendency Routing for Underwater Image Enhancement** (fourth author). *Under Review, AAAI 2027*.
