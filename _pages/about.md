@@ -12,7 +12,7 @@ redirect_from:
 
 I am **Yi'ang Chen (陈奕昂)**, a Master's student in **Computer Technology** at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), expected to graduate in **June 2027**. I am supervised by **Prof. Kui Jiang (江奎)** in the **AIIA Lab**. I earned my Bachelor's degree in **Mathematics and Applied Mathematics** from [South China University of Technology](https://www.scut.edu.cn/).
 
-My research interests lie in **multimodal generation and understanding**, **world models**, and **spatial intelligence**, with the long-term goal of building spatially intelligent systems that perceive, understand, and generate consistent 3D/4D scenes for embodied AI. I am currently a Research Intern at Meituan, building an agentic framework for 3D spatial understanding from sparse, unordered multi-view observations and generative world models for weakly structured commercial scenes.
+My research interests lie in **multimodal generation and understanding**, **world models**, **spatial intelligence**, and **low-level vision**, with the long-term goal of building spatially intelligent systems that perceive, understand, and generate consistent 3D/4D scenes for embodied AI.
 
 - **Multimodal Generation and Understanding**
 - **World Models**
