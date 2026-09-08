@@ -25,12 +25,12 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 # Education
 
-- <span style="float: right;">*2024.09 - 2027.06 (expected)*</span> <a href="https://www.hit.edu.cn/"><img src="/images/HIT_logo.png?v=3" alt="HIT" style="height: 32px; vertical-align: middle;"></a> **Harbin Institute of Technology**, Harbin, China
+- <span style="float: right;">*2024.09 - 2027.06 (expected)*</span> <a href="https://www.hit.edu.cn/"><img src="/images/HIT_logo.png?v=3" alt="HIT" style="height: 32px; width: 150px; object-fit: contain; object-position: left center; vertical-align: middle; margin-right: 8px;"></a> **Harbin Institute of Technology**, Harbin, China
   - M.Eng. in Computer Technology
   - Supervisor: Prof. Kui Jiang (江奎), AIIA Lab
   - Xiaomi Scholarship
 
-- <span style="float: right;">*2019.09 - 2023.06*</span> <a href="https://www.scut.edu.cn/"><img src="/images/SCUT_logo.png?v=3" alt="SCUT" style="height: 32px; vertical-align: middle;"></a> **South China University of Technology**, Guangzhou, China
+- <span style="float: right;">*2019.09 - 2023.06*</span> <a href="https://www.scut.edu.cn/"><img src="/images/SCUT_logo.png?v=3" alt="SCUT" style="height: 32px; width: 150px; object-fit: contain; object-position: left center; vertical-align: middle; margin-right: 8px;"></a> **South China University of Technology**, Guangzhou, China
   - B.Sc. in Mathematics and Applied Mathematics
   - Australian Alumni Scholarship
 
@@ -102,10 +102,10 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 # Intern Experience
 
-- <span style="float: right;">*2026.07 - Present*</span> <img src="/images/Meituan_logo.png?v=2" alt="Meituan" style="height: 26px; vertical-align: middle;"> **Meituan**, Shanghai, China
+- <span style="float: right;">*2026.07 - Present*</span> <img src="/images/Meituan_logo.png?v=2" alt="Meituan" style="height: 26px; width: 170px; object-fit: contain; object-position: left center; vertical-align: middle; margin-right: 8px;"> **Meituan**, Shanghai, China
   - Research Intern, Dianping Technology Department
 
-- <span style="float: right;">*2026.04 - 2026.07*</span> <a href="https://www.tencent.com/"><img src="/images/Tencent_logo.png?v=2" alt="Tencent" style="height: 21px; vertical-align: middle;"></a> **Tencent**, Shenzhen, China
+- <span style="float: right;">*2026.04 - 2026.07*</span> <a href="https://www.tencent.com/"><img src="/images/Tencent_logo.png?v=2" alt="Tencent" style="height: 21px; width: 170px; object-fit: contain; object-position: left center; vertical-align: middle; margin-right: 8px;"></a> **Tencent**, Shenzhen, China
   - Applied Research Intern, TEG AI Platform Department
 
 <span class='anchor' id='int'></span>
