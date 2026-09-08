@@ -21,7 +21,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 - **Low-Level Vision**
 
 
-<span class='anchor' id='-edu'></span>
+<span class='anchor' id='edu'></span>
 
 # Education
 
@@ -35,7 +35,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
   - Australian Alumni Scholarship
 
 
-<span class='anchor' id='-pub'></span>
+<span class='anchor' id='pub'></span>
 
 # Publications
 
@@ -86,7 +86,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 </div>
 
 
-<span class='anchor' id='-awd'></span>
+<span class='anchor' id='awd'></span>
 
 # Honors & Awards
 
@@ -98,7 +98,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 - *2020* **Australian Alumni Scholarship**, South China University of Technology
 
 
-<span class='anchor' id='-exp'></span>
+<span class='anchor' id='exp'></span>
 
 # Intern Experience
 
@@ -108,7 +108,7 @@ My research interests lie in **multimodal generation and understanding**, **worl
 - <span style="float: right;">*2026.04 - 2026.07*</span> <a href="https://www.tencent.com/"><img src="/images/Tencent_logo.png?v=2" alt="Tencent" style="height: 21px; vertical-align: middle;"></a> **Tencent**, Shenzhen, China
   - Applied Research Intern, TEG AI Platform Department
 
-<span class='anchor' id='-int'></span>
+<span class='anchor' id='int'></span>
 
 # Interests
 

@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#-edu"
+    url: "/#edu"
 
   - title: "Publications"
-    url: "/#-pub"
+    url: "/#pub"
 
   - title: "Awards"
-    url: "/#-awd"
+    url: "/#awd"
 
   - title: "Experience"
-    url: "/#-exp"
+    url: "/#exp"
 
   - title: "Interests"
-    url: "/#-int"
+    url: "/#int"
