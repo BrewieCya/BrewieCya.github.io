@@ -12,12 +12,13 @@ redirect_from:
 
 I am **brewiecya (陈奕昂)**, a Master's student in **Computer Technology** at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), expected to graduate in **June 2027**. I am supervised by **Prof. Kui Jiang (江奎)** in the **AIIA Lab**. I earned my Bachelor's degree in **Mathematics and Applied Mathematics** from [South China University of Technology](https://www.scut.edu.cn/).
 
-My research interests lie in **multimodal foundation models**, **world models**, and **spatial intelligence**, with the long-term goal of building spatially intelligent systems that perceive, understand, and generate consistent 3D/4D scenes for embodied AI. I am currently a Research Intern at [Meituan](https://www.meituan.com/) (Dianping Technology Department), working on weakly structured visual-asset understanding and geometry-conditioned 3D-aware video generation.
+My research interests lie in **multimodal generation and understanding**, **world models**, and **spatial intelligence**, with the long-term goal of building spatially intelligent systems that perceive, understand, and generate consistent 3D/4D scenes for embodied AI. I am currently a Research Intern at [Meituan](https://www.meituan.com/) (Dianping Technology Department), building an agentic framework for 3D spatial understanding from sparse, unordered multi-view observations and generative world models for weakly structured commercial scenes.
 
-- **Multimodal Foundation Models & Vision-Language Reasoning**
-- **World Models & Geometrically Consistent Visual Generation**
-- **3D/4D Scene Understanding & Spatial Intelligence**
-- **Diffusion Models, Flow Matching, and Video Generation**
+- **Multimodal Generation and Understanding**
+- **World Models**
+- **3D/4D Spatial Intelligence**
+- **Multimodal Agents**
+- **Low-Level Vision**
 
 
 <span class='anchor' id='-edu'></span>
@@ -25,12 +26,12 @@ My research interests lie in **multimodal foundation models**, **world models**,
 # Education
 
 - *2024.09 - 2027.06 (expected)*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/HIT_logo.svg" width="23pt"></a> **Harbin Institute of Technology**, Harbin, China
-  - M.Eng. in Computer Technology
+  - M.Eng. in Computer Technology, GPA: 3.4/4
   - Supervisor: Prof. Kui Jiang (江奎), AIIA Lab
   - Xiaomi Scholarship
 
 - *2019.09 - 2023.06*, <a href="https://www.scut.edu.cn/"><img class="svg" src="/images/SCUT_logo.svg" width="20pt"></a> **South China University of Technology**, Guangzhou, China
-  - B.Sc. in Mathematics and Applied Mathematics
+  - B.Sc. in Mathematics and Applied Mathematics, GPA: 3.3/4
   - Australian Alumni Scholarship
 
 
@@ -61,8 +62,8 @@ Develops an uncertainty-aware diffusion framework with anchor-frame constraints 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (submitted)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection** (second author). *Submitted to AAAI 2027*.
-Introduces motion-prior and uncertainty-residual query updates for temporal multi-view 3D detection; improves StreamPETR by 2.43 NDS and 2.76 mAP on nuScenes with 3.4% inference overhead.
+- **STDVD: Motion-Guided Differential Mamba for High-Fidelity Video Deraining** (first author). *Under Review, AAAI 2027*.
+Identifies the saliency-artifact entanglement in Mamba's selective scanning and resolves it via motion-guided differential gating that separates transient rain from coherent background trajectories with linear complexity.
 
 </div>
 </div>
@@ -70,15 +71,25 @@ Introduces motion-prior and uncertainty-residual query updates for temporal mult
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (submitted)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **STDVD: Motion-Guided Differential Mamba for High-Fidelity Video Deraining** (first author). *Submitted to AAAI 2027*.
+- **KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection** (second author). *Under Review, AAAI 2027*.
+Introduces motion-prior and uncertainty-residual query updates for temporal multi-view 3D detection; improves StreamPETR by 2.43 NDS and 2.76 mAP on nuScenes with 3.4% inference overhead.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS (minor revision)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT (major revision)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining** (student first author). *Minor Revision, IEEE TITS, 2026*.
+- **S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining** (student first author). *Major Revision, CAAI Transactions on Intelligence Technology (TRIT), SCI Q1, 2026*.
+Injects multi-scale DINOv2 semantic priors into a directional-gated spatio-temporal Mamba to distinguish rain artifacts from scene structures, improving robustness under complex degradations.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (submitted)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **State-Isolated Vision Mamba via Update-Tendency Routing for Underwater Image Enhancement** (fourth author). *Under Review, AAAI 2027*.
 
 </div>
 </div>
@@ -88,11 +99,12 @@ Introduces motion-prior and uncertainty-residual query updates for temporal mult
 
 # Honors & Awards
 
+- *2026.04* **Runner-up** (2nd / 150 teams), CVPR NTIRE 2026 Challenge on Single Image Reflection Removal in the Wild (Team Leader)
 - *2026.04* **Champion** (1st / 168 teams), CVPR NTIRE 2026 Challenge on Day and Night Raindrop Removal for Dual-Focused Images
-- *2026.06* **Runner-up** (2nd / 150 teams), CVPR NTIRE 2026 Challenge on Single Image Reflection Removal in the Wild
 - *2025.06* **Runner-up** (2nd / 113 teams), CVPR NTIRE 2025 Challenge on Single Image Reflection Removal in the Wild
-- **Xiaomi Scholarship**, Harbin Institute of Technology
-- **Australian Alumni Scholarship**, South China University of Technology
+- *2025* **Third Place**, CSIG Portrait Restoration Challenge (Team Leader)
+- *2025* **Xiaomi Scholarship**, Harbin Institute of Technology
+- *2020* **Australian Alumni Scholarship**, South China University of Technology
 
 
 <span class='anchor' id='-exp'></span>
@@ -100,10 +112,14 @@ Introduces motion-prior and uncertainty-residual query updates for temporal mult
 # Research Experience
 
 - *2026.07 - Present*, **Research Intern**, [Meituan](https://www.meituan.com/), Dianping Technology Department, Shanghai, China
-  - Generative World Models: weakly structured visual-asset understanding, geometric reconstruction (Qwen3-VL-2B, VGGT-1B), and geometry-conditioned 3D-aware video generation (Wan2.2-14B).
+  - Generative World Models for Weakly Structured Commercial Scenes: developing an agentic framework that enables vision-language models to infer globally consistent spatial layouts from sparse, unordered RGB multi-view observations via cross-view semantic retrieval, iterative view selection, and spatial-relation graph construction without explicit geometric priors; and a long-horizon video generation approach jointly constrained by spatial semantic graphs and 3D geometric priors, achieving controllable world generation with cross-view spatiotemporal consistency along specified camera trajectories.
 
-- *2026.04 - 2026.07*, **Applied Research Intern**, Tencent, TEG AI Platform -- Honor of Kings Project, Shenzhen, China
-  - Instruction fusion and VLA alignment for a multimodal game agent; built a 170K-sample SFT pipeline for a multi-agent LLM planner, improving Qwen3.5-9B event completion from 7.31% to 33.35%.
+- *2026.04 - 2026.07*, **Applied Research Intern**, Tencent, TEG AI Platform Department -- Honor of Kings Commander Project, Shenzhen, China
+  - Built multi-agent LLM planners and game agents: designed MoE routing with VLA alignment for strategy selection, a 170K-sample SFT pipeline that lifted Qwen3.5-9B event completion from 7.31% to 33.35%, and GameCore-rollout trajectory rewards with multi-step credit assignment for online RL post-training.
 
-- *2025.10 - 2026.03*, **Algorithm Intern**, Wuhan Dashuiyun Technology Co., Ltd., Intelligent Perception R&D Center, Wuhan, China
-  - Developed a temporally consistent rain-video restoration model for UAV inspection; optimized FP16 inference with ONNX and TensorRT, achieving 23.1 FPS real-time deployment.
+<span class='anchor' id='-proj'></span>
+
+# Projects
+
+- *2024.10 - 2025.10*, **Multimodal Image Enhancement Agent via Information Fusion**, National Innovation Project, Core Contributor
+  - Built a VLM-LLM-driven image-enhancement agent that uses semantic perception and model routing to select restoration strategies across degradation types; surpassed the prior state of the art by 1.5 dB PSNR.
