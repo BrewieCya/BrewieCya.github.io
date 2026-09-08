@@ -25,12 +25,12 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 # Education
 
-- *2024.09 - 2027.06 (expected)*, **Harbin Institute of Technology**, Harbin, China
+- *2024.09 - 2027.06 (expected)*, <a href="https://www.hit.edu.cn/"><img src="/images/HIT_logo.png" alt="HIT" height="26px"></a> **Harbin Institute of Technology**, Harbin, China
   - M.Eng. in Computer Technology
   - Supervisor: Prof. Kui Jiang (江奎), AIIA Lab
   - Xiaomi Scholarship
 
-- *2019.09 - 2023.06*, **South China University of Technology**, Guangzhou, China
+- *2019.09 - 2023.06*, <a href="https://www.scut.edu.cn/"><img src="/images/SCUT_logo.png" alt="SCUT" height="26px"></a> **South China University of Technology**, Guangzhou, China
   - B.Sc. in Mathematics and Applied Mathematics
   - Australian Alumni Scholarship
 
@@ -59,15 +59,6 @@ First Author. *Under Review, AAAI 2027*.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- **KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection**  
-Second Author. *Under Review, AAAI 2027*.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT (major revision)</div><img src='images/S3VD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,6 +68,14 @@ Student First Author. *Major Revision, CAAI Transactions on Intelligence Technol
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection**  
+Second Author. *Under Review, AAAI 2027*.
+
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (under review)</div><img src='images/paper_placeholder.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
