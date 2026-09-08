@@ -90,10 +90,10 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 # Honors & Awards
 
-- *2026.04* **Runner-up**, CVPR NTIRE 2026 Challenge on Single Image Reflection Removal in the Wild (Team Leader)
-- *2026.04* **Champion**, CVPR NTIRE 2026 Challenge on Day and Night Raindrop Removal for Dual-Focused Images
-- *2025.06* **Runner-up**, CVPR NTIRE 2025 Challenge on Single Image Reflection Removal in the Wild
-- *2025* **Third Place**, CSIG Portrait Restoration Challenge (Team Leader)
+- *2026* **Runner-up**, CVPR NTIRE 2026 Challenge on Single Image Reflection Removal in the Wild
+- *2026* **Champion**, CVPR NTIRE 2026 Challenge on Day and Night Raindrop Removal for Dual-Focused Images
+- *2025* **Runner-up**, CVPR NTIRE 2025 Challenge on Single Image Reflection Removal in the Wild
+- *2025* **Third Place**, CSIG Portrait Restoration Challenge
 - *2025* **Xiaomi Scholarship**, Harbin Institute of Technology
 - *2020* **Australian Alumni Scholarship**, South China University of Technology
 
