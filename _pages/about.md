@@ -25,12 +25,12 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 # Education
 
-- *2024.09 - 2027.06 (expected)*, **Harbin Institute of Technology**, Harbin, China <a href="https://www.hit.edu.cn/"><img src="/images/HIT_logo.png?v=2" alt="HIT" style="height: 26px; vertical-align: middle;"></a>
+- <span style="float: right;">*2024.09 - 2027.06 (expected)*</span> <a href="https://www.hit.edu.cn/"><img src="/images/HIT_logo.png?v=2" alt="HIT" style="height: 26px; vertical-align: middle;"></a> **Harbin Institute of Technology**, Harbin, China
   - M.Eng. in Computer Technology
   - Supervisor: Prof. Kui Jiang (江奎), AIIA Lab
   - Xiaomi Scholarship
 
-- *2019.09 - 2023.06*, **South China University of Technology**, Guangzhou, China <a href="https://www.scut.edu.cn/"><img src="/images/SCUT_logo.png?v=2" alt="SCUT" style="height: 26px; vertical-align: middle;"></a>
+- <span style="float: right;">*2019.09 - 2023.06*</span> <a href="https://www.scut.edu.cn/"><img src="/images/SCUT_logo.png?v=2" alt="SCUT" style="height: 26px; vertical-align: middle;"></a> **South China University of Technology**, Guangzhou, China
   - B.Sc. in Mathematics and Applied Mathematics
   - Australian Alumni Scholarship
 
@@ -102,9 +102,9 @@ My research interests lie in **multimodal generation and understanding**, **worl
 
 # Intern Experience
 
-- *2026.07 - Present*, **Research Intern**, [Meituan](https://www.meituan.com/) <a href="https://www.meituan.com/"><img src="/images/Meituan_logo.png" alt="Meituan" style="height: 20px; vertical-align: middle;"></a>, Dianping Technology Department, Shanghai, China
+- <span style="float: right;">*2026.07 - Present*</span> <a href="https://www.meituan.com/"><img src="/images/Meituan_logo.png" alt="Meituan" style="height: 20px; vertical-align: middle;"></a> **Research Intern**, [Meituan](https://www.meituan.com/), Dianping Technology Department, Shanghai, China
 
-- *2026.04 - 2026.07*, **Applied Research Intern**, Tencent <a href="https://www.tencent.com/"><img src="/images/Tencent_logo.png" alt="Tencent" style="height: 18px; vertical-align: middle;"></a>, TEG AI Platform Department -- Honor of Kings Commander Project, Shenzhen, China
+- <span style="float: right;">*2026.04 - 2026.07*</span> <a href="https://www.tencent.com/"><img src="/images/Tencent_logo.png" alt="Tencent" style="height: 18px; vertical-align: middle;"></a> **Applied Research Intern**, Tencent, TEG AI Platform Department -- Honor of Kings Commander Project, Shenzhen, China
 
 <span class='anchor' id='-int'></span>
 
