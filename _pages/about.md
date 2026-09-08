@@ -109,7 +109,7 @@ Injects multi-scale DINOv2 semantic priors into a directional-gated spatio-tempo
 
 <span class='anchor' id='-exp'></span>
 
-# Research Experience
+# Intern Experience
 
 - *2026.07 - Present*, **Research Intern**, [Meituan](https://www.meituan.com/), Dianping Technology Department, Shanghai, China
   - Generative World Models for Weakly Structured Commercial Scenes: developing an agentic framework that enables vision-language models to infer globally consistent spatial layouts from sparse, unordered RGB multi-view observations via cross-view semantic retrieval, iterative view selection, and spatial-relation graph construction without explicit geometric priors; and a long-horizon video generation approach jointly constrained by spatial semantic graphs and 3D geometric priors, achieving controllable world generation with cross-view spatiotemporal consistency along specified camera trajectories.
