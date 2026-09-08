@@ -91,9 +91,9 @@ Fourth Author. *Under Review, AAAI 2027*.
 
 # Honors & Awards
 
-- *2026.04* **Runner-up** (2nd / 150 teams), CVPR NTIRE 2026 Challenge on Single Image Reflection Removal in the Wild (Team Leader)
-- *2026.04* **Champion** (1st / 168 teams), CVPR NTIRE 2026 Challenge on Day and Night Raindrop Removal for Dual-Focused Images
-- *2025.06* **Runner-up** (2nd / 113 teams), CVPR NTIRE 2025 Challenge on Single Image Reflection Removal in the Wild
+- *2026.04* **Runner-up**, CVPR NTIRE 2026 Challenge on Single Image Reflection Removal in the Wild (Team Leader)
+- *2026.04* **Champion**, CVPR NTIRE 2026 Challenge on Day and Night Raindrop Removal for Dual-Focused Images
+- *2025.06* **Runner-up**, CVPR NTIRE 2025 Challenge on Single Image Reflection Removal in the Wild
 - *2025* **Third Place**, CSIG Portrait Restoration Challenge (Team Leader)
 - *2025* **Xiaomi Scholarship**, Harbin Institute of Technology
 - *2020* **Australian Alumni Scholarship**, South China University of Technology
@@ -104,10 +104,8 @@ Fourth Author. *Under Review, AAAI 2027*.
 # Intern Experience
 
 - *2026.07 - Present*, **Research Intern**, [Meituan](https://www.meituan.com/), Dianping Technology Department, Shanghai, China
-  - Generative World Models for Weakly Structured Commercial Scenes: developing an agentic framework that enables vision-language models to infer globally consistent spatial layouts from sparse, unordered RGB multi-view observations via cross-view semantic retrieval, iterative view selection, and spatial-relation graph construction without explicit geometric priors; and a long-horizon video generation approach jointly constrained by spatial semantic graphs and 3D geometric priors, achieving controllable world generation with cross-view spatiotemporal consistency along specified camera trajectories.
 
 - *2026.04 - 2026.07*, **Applied Research Intern**, Tencent, TEG AI Platform Department -- Honor of Kings Commander Project, Shenzhen, China
-  - Built multi-agent LLM planners and game agents: designed MoE routing with VLA alignment for strategy selection, a 170K-sample SFT pipeline that lifted Qwen3.5-9B event completion from 7.31% to 33.35%, and GameCore-rollout trajectory rewards with multi-step credit assignment for online RL post-training.
 
 <span class='anchor' id='-proj'></span>
 
